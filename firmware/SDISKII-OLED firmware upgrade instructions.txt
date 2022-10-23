@@ -1,6 +1,6 @@
 Instructions for SDISK (OLED version) firmware update
 
-1. First, instal the AVRDUDE
+1. First, install the AVRDUDE
 
 	for Windows
 		
